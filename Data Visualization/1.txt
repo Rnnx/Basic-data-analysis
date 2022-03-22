@@ -1,1 +1,2 @@
-
+The Dashboard created with the data can be found at:
+https://public.tableau.com/app/profile/karol.martyniuk/viz/CovidDashboard_16479468294070/Dashboard1
